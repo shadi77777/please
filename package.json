@@ -1,17 +1,1 @@
-{
-  "name": "my-project",
-  "version": "1.0.0",
-  "description": "A brief description of your project",
-  "main": "a.js",
-  "scripts": {
-    "start": "node a.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yourusername/your-repository.git"
-  },
-  "author": "Your Name",
-  "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
-}
+
