@@ -2,9 +2,9 @@
   "name": "my-project",
   "version": "1.0.0",
   "description": "A brief description of your project",
-  "main": "index.js",
+  "main": "a.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node a.js"
   },
   "repository": {
     "type": "git",
