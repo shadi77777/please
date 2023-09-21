@@ -12,10 +12,6 @@
   },
   "author": "Your Name",
   "license": "MIT",
-  "dependencies": {
-    // Your project's dependencies will be listed here
-  },
-  "devDependencies": {
-    // Your project's devDependencies will be listed here
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
