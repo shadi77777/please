@@ -1,0 +1,21 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/your-repository.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    // Your project's dependencies will be listed here
+  },
+  "devDependencies": {
+    // Your project's devDependencies will be listed here
+  }
+}
